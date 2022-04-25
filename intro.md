@@ -13,7 +13,9 @@ Mattingly, William. <i>Introduction to CLTK</i>, 2022. <a href="cltk.pythonhuman
 
 <br><br><br><br>
 ### <p align="center">Introduction</p>
-This textbook is designed to work as a primer to the Classical Language Toolkit (CLTK), a Python Library created by Kyle P. Johnson for doing natural language processing on ancient and medieval texts. These documents survive with limited corpora and whose digital editions have numerous technical challenges, including non-standard encoding, high-degree of inflection, and few (if any) native speakers. The CLTK provides solutions to many of these challenges. This textbook will introduce you to the key concepts and ideas behind the CLTK and provide a clear set of instructions with reproducible code.
+Ce manuel est destiné aux débutants de *Classical Language Toolkit* (CLTK), une bibliothèque Python créé par Kyle P. Johnson pour le traitement automatique de textes écrits en langues anciennes. 
+Les textes ont survécu 
+These documents survive with limited corpora and whose digital editions have numerous technical challenges, including non-standard encoding, high-degree of inflection, and few (if any) native speakers. The CLTK provides solutions to many of these challenges. This textbook will introduce you to the key concepts and ideas behind the CLTK and provide a clear set of instructions with reproducible code.
 
 <br><br><br><br>
 ### <p align="center">Acknowledgments</p>

@@ -1,14 +1,14 @@
-# INTRODUCTION TO BOOKNLP
-This course is an introduction to BookNLP
+# Introduction à CLTK
+Ce cours est une introduction à CLTK
 
-## OUTLINE OF COURSE
+## Sommaire
 
 
-| Lesson Number      | Lesson Title |
+| Leçon      | Titre |
 | ----------- | ----------- |
-|01 |Introduction to CLTK|
-|02 |Getting Started with CLTK |
-|03 |Languages|
+|01 |Introduction à CLTK|
+|02 |Commencer avec CLTK |
+|03 |Langues|
 |04 ||
 |05 ||
 |06 ||
